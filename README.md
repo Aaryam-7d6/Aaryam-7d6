@@ -149,7 +149,8 @@ Building ideas for finance, hospitality, entertainment & retail systems.
 - DSA (clean & clear fundamentals)  
 - Cybersecurity 
 - OS & Networking  
-- XR development  
+- XR development
+- Automation and tools
 - Research writing + scientific thinking  
 
 ---
