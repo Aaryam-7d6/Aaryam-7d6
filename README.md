@@ -57,8 +57,8 @@ This Will show profile view count:
 <h2 align="center"> AARYA R. THAKAR (आर्य)</h1>
 <h3 align="center">Autodidactic Polymath | AI • ML • Security • XR • Ops | Researcher in Formation | Systems Thinker</h3>
 
-<p align="center"><em>“Bridging Code & Consciousness • Turning Complexity into Clarity • Synthesizing Across Disciplines.”</em></p>
-<p align="center"> **My GitHub is my living, evolving resume — a space where I build, break, learn, and grow in public.** </p>
+<p align="center"><em><b>“Bridging Code & Consciousness • Turning Complexity into Clarity • Synthesizing Across Disciplines.”</b></em></p>
+<p align="center"> <b> <i>My GitHub is my living, evolving resume — a space where I build, break, learn, and grow in public.</b></i> </p>
 
 
 ---
@@ -170,14 +170,53 @@ Inspired by Stoicism, science, and systems theory:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aaryam_Thakar)
 [![Medium](https://img.shields.io/badge/Medium-12100E.svg?logo=medium&logoColor=white)](https://medium.com/@aaryamthakar0110)
 
----
 
 ## 📊 GitHub Stats:
-
+<!--
+<img src="https://komarev.com/ghpvc/?username=Aaryam-7d6"/>
 [![](https://github-readme-stats.vercel.app/api?username=Aaryam-7d6&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryam-7d6&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 [![](https://streak-stats.demolab.com/?user=Aaryam-7d6&theme=default)](https://git.io/streak-stats) 
-<!--![](https://nirzak-streak-stats.vercel.app/?user=Aaryam-7d6&theme=jolly&date_format=j%20M%5B%20Y%5D) -->
+-->
+<!--![](https://nirzak-streak-stats.vercel.app/?user=Aaryam-7d6&theme=jolly&date_format=j%20M%5B%20Y%5D) 
+<br>
+
+<a href="#">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Aaryam-7d6&custom_title=Aaryam%27s%20Contribution&theme=react&bg_color=151515&point=ffffff&radius=10" alt="My GitHub stats" />
+</a>
+-->
+<!--
+---
+
+**📊 GitHub Stats**
+
+[![Aaryam-7d6's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaryam-7d6&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+**Top Languages**
+
+![Aaryam-7d6's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryam-7d6&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+**Streak Stats**
+
+[![Aaryam-7d6's Streak Stats](https://streak-stats.demolab.com/?user=Aaryam-7d6&theme=default)](https://git.io/streak-stats)
+
+---
+
+**Contribution Activity Graph**
+
+![Aaryam's Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aaryam-7d6&custom_title=Aaryam%27s%20Contribution&theme=react&bg_color=151515&point=ffffff&radius=10)
+-->
+
+[![Aaryam-7d6's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaryam-7d6&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=aura)](https://github.com/anuraghazra/github-readme-stats) 
+![Aaryam-7d6's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryam-7d6&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Aaryam-7d6's Streak Stats](https://streak-stats.demolab.com/?user=Aaryam-7d6&theme=default)](https://git.io/streak-stats)
+
+![Aaryam's Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aaryam-7d6&custom_title=Aaryam%27s%20Contribution&theme=react&bg_color=151515&point=ffffff&radius=10)
+
 ---
 
 ## ☕ Final Note
