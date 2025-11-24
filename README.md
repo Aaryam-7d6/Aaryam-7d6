@@ -54,7 +54,7 @@ This Will show profile view count:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h1 align="center"> ॐ </h1>
-<h2 align="center"> AARYA R. THAKAR (आर्य)</h1>
+<h2 align="center"> AARYA R. THAKAR (आर्य)</h2>
 <h3 align="center">Autodidactic Polymath | AI • ML • Security • XR • Ops | Researcher in Formation | Systems Thinker</h3>
 
 <p align="center"><em><b>“Bridging Code & Consciousness • Turning Complexity into Clarity • Synthesizing Across Disciplines.”</b></em></p>
@@ -68,7 +68,7 @@ This Will show profile view count:
 I'm **Aarya R. Thakar**, a 3rd-year Computer Science student and a self-taught programmer driven by curiosity, discipline, and a deep fascination with how systems — computational, human, and natural — truly work.
 
 I explore the intersection of **AI, Cybersecurity, XR, Systems Engineering, Philosophy, and Research**, constantly pushing myself to build, learn, and understand more deeply.
-I am a Progressing Polymath and Life long learner, who love to learn, teach and connecting + collaborate with fellow learners to make meaningful impact in the world for humanity. I am Intersted NOT only in tech BUT other domains also, and learning about them too.
+I'm a progressing polymath and lifelong learner who loves to learn, teach, and collaborate with fellow learners to make meaningful impact across domains — not just in tech, but in philosophy, strategy, and human systems.
 
 My learning style is autodidactic.  
 My north star is clarity.  
@@ -102,7 +102,7 @@ My philosophy is progress.
 ## 🛠 Skills & Technologies
 
 ### **Languages**
-`Python` • `C` • `C++` • `C#` • `Java` • `SQL` • `HTML` • `CSS` • `R` • `go` • `Rust`
+`Python` • `C` • `C++` • `C#` • `Java` • `SQL` • `HTML` • `CSS` • `R` • `Go` • `Rust`
 
 ### **Tools & Frameworks**
 `NumPy` • `Pandas` • `Scikit-Learn`  
