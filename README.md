@@ -172,16 +172,12 @@ Inspired by Stoicism, science, and systems theory:
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Aaryam-7d6&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aaryam-7d6&theme=default&hide_border=false)<br/> 
-![](http://github-readme-stats.herokuapp.com/?user=Aaryam-7d6&show_icons=true&include_all_commits=true)<br/>
-[![](https://streak-stats.demolab.com?user=Aaryam-7d6)](https://git.io/streak-stats)<br/>
-[![](https://github-readme-stats.vercel.app/api?username=Aaryam-7d6&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryam-7d6&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-[![](https://visitcount.itsvg.in/api?id=Aaryam-7d6&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://github-readme-stats.vercel.app/api?username=Aaryam-7d6&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryam-7d6&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+[![](https://streak-stats.demolab.com/?user=Aaryam-7d6&theme=default)](https://git.io/streak-stats) 
+<!--![](https://nirzak-streak-stats.vercel.app/?user=Aaryam-7d6&theme=jolly&date_format=j%20M%5B%20Y%5D) -->
 ---
 
 ## ☕ Final Note
