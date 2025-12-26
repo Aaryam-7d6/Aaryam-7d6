@@ -120,8 +120,8 @@ Inspired by Stoicism, science, and systems theory:
 
 </div>
 -->
-----
 
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -190,7 +190,65 @@ Inspired by Stoicism, science, and systems theory:
 </p>
 
 ---
+-->
 
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Aaryam-7d6&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryam-7d6&layout=compact&langs_count=8&theme=radical&hide_border=true&count_private=true" alt="Top Languages" width="400"/>
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaryam-7d6&theme=radical&hide_border=true" alt="GitHub Streak" width="500"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aaryam-7d6&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
+</p>
+
+---
+
+## 📈 Detailed Stats
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aaryam-7d6&theme=radical" alt="Profile Details"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aaryam-7d6&theme=radical" width="400"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aaryam-7d6&theme=radical" width="400"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaryam-7d6/Aaryam-7d6/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaryam-7d6/Aaryam-7d6/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Aaryam-7d6/Aaryam-7d6/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aaryam-7d6&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
+
+---
 ## ☕ Final Note
 
 If you explore:  
