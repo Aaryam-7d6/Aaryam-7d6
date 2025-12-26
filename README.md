@@ -208,15 +208,15 @@ Inspired by Stoicism, science, and systems theory:
     <td> -->
       <!--
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryam-7d6&layout=compact&langs_count=8&theme=radical&hide_border=true&count_private=true" alt="Top Languages" width="400"/> -->
-     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryam-7d6&layout=compact&langs_count=8&theme=radical&hide_border=true&count_private=true" alt="Most Used Languages"/>
-    </td>
+     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryam-7d6&layout=compact&langs_count=8&theme=radical&hide_border=true&count_private=true" alt="Most Used Languages"/> -->
+   <!-- </td>
   </tr>
 </table> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaryam-7d6&theme=radical&hide_border=true" alt="GitHub Streak" width="500"/>
 
 <a href="#">
-  <img align="center" src="https://github-stats-pro.vercel.app/api?username=Aaryam-7d6&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My GitHub stats" />
+  <img align="center" src="https://github-stats-pro.vercel.app/api?username=Aaryam-7d6&count_private=true&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My GitHub stats" />
 </a>
 <a href="#">
   <img align="center" src="https://github-stats-pro.vercel.app/api/top-langs/?username=Aaryam-7d6&layout=compact&theme=dark" alt="My Lang stats" />
