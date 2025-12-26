@@ -191,6 +191,9 @@ Inspired by Stoicism, science, and systems theory:
 
 ---
 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aaryam-7d6&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
 
 <div align="center">
 
@@ -239,14 +242,6 @@ Inspired by Stoicism, science, and systems theory:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaryam-7d6/Aaryam-7d6/output/github-contribution-grid-snake.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Aaryam-7d6/Aaryam-7d6/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aaryam-7d6&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
 
 ---
 ## ☕ Final Note
