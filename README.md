@@ -196,7 +196,7 @@ Inspired by Stoicism, science, and systems theory:
 </p>
 
 <div align="center">
-
+<!-- add seceretes here careful with this okay. -->
 <table>
   <tr>
     <td>
@@ -213,7 +213,7 @@ Inspired by Stoicism, science, and systems theory:
 </div>
 
 ---
-
+<!--
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -221,7 +221,7 @@ Inspired by Stoicism, science, and systems theory:
 </p>
 
 ---
-
+-->
 ## 📈 Detailed Stats
 
 <p align="center">
