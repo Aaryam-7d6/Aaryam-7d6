@@ -219,10 +219,13 @@ Inspired by Stoicism, science, and systems theory:
   <img align="center" src="https://github-stats-pro.vercel.app/api?username=Aaryam-7d6&count_private=true&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My GitHub stats" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-stats-pro.vercel.app/api/top-langs/?username=Aaryam-7d6&layout=compact&theme=dark" alt="My Lang stats" />
+  <img align="center" src="https://github-stats-pro.vercel.app/api/top-langs/?username=Aaryam-7d6&count_private=true&layout=compact&theme=dark" alt="My Lang. stats" />
 </a>
-<a href="#">
+<!--<a href="#">
   <img align="center" src="https://streak-stats.demolab.com/?user=Aaryam-7d6&theme=dark&card_width=600" alt="My Streak stats" />
+</a>-->
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aaryam-7d6" alt="GitHub Streak" />
 </a>
 
 </div>
