@@ -98,7 +98,7 @@ Inspired by Stoicism, science, and systems theory:
 [![Medium](https://img.shields.io/badge/Medium-12100E.svg?logo=medium&logoColor=white)](https://medium.com/@aaryamthakar0110)
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -119,6 +119,75 @@ Inspired by Stoicism, science, and systems theory:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaryam-7d6&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 
 </div>
+-->
+----
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+### Aarya R. Thakar's GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Aaryam-7d6&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryam-7d6&layout=compact&langs_count=8&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Most Used Languages"/>
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaryam-7d6&theme=radical&hide_border=true" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaryam-7d6&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aaryam-7d6&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📈 Contribution Stats
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aaryam-7d6&theme=radical" alt="Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aaryam-7d6&theme=radical" alt="Repos per Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aaryam-7d6&theme=radical" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aaryam-7d6&theme=radical" alt="Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aaryam-7d6&theme=radical" alt="Productive Time"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaryam-7d6/Aaryam-7d6/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaryam-7d6/Aaryam-7d6/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aaryam-7d6/Aaryam-7d6/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aaryam-7d6&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 ---
 
