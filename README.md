@@ -197,18 +197,33 @@ Inspired by Stoicism, science, and systems theory:
 
 <div align="center">
 <!-- add seceretes here careful with this okay. -->
+  <!--
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Aaryam-7d6&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="400"/>
+      <!--
+      <img src="https://github-readme-stats.vercel.app/api?username=Aaryam-7d6&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="400"/> -->
+   <!--   <img src="https://github-readme-stats.vercel.app/api?username=Aaryam-7d6&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/> 
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryam-7d6&layout=compact&langs_count=8&theme=radical&hide_border=true&count_private=true" alt="Top Languages" width="400"/>
+    <td> -->
+      <!--
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryam-7d6&layout=compact&langs_count=8&theme=radical&hide_border=true&count_private=true" alt="Top Languages" width="400"/> -->
+     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryam-7d6&layout=compact&langs_count=8&theme=radical&hide_border=true&count_private=true" alt="Most Used Languages"/>
     </td>
   </tr>
-</table>
+</table> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaryam-7d6&theme=radical&hide_border=true" alt="GitHub Streak" width="500"/>
+
+<a href="#">
+  <img align="center" src="https://github-stats-pro.vercel.app/api?username=Aaryam-7d6&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My GitHub stats" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-stats-pro.vercel.app/api/top-langs/?username=Aaryam-7d6&layout=compact&theme=dark" alt="My Lang stats" />
+</a>
+<a href="#">
+  <img align="center" src="https://streak-stats.demolab.com/?user=Aaryam-7d6&theme=dark&card_width=600" alt="My Streak stats" />
+</a>
 
 </div>
 
@@ -229,9 +244,14 @@ Inspired by Stoicism, science, and systems theory:
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aaryam-7d6&theme=radical" width="400"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aaryam-7d6&theme=radical" width="400"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aaryam-7d6&theme=dark" width="400"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aaryam-7d6&theme=default" width="400"/>
 </p>
+
+<a href="#">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Aaryam-7d6&theme=react&bg_color=151515&point=ffffff&radius=10" alt="My GitHub stats" />
+</a>
+<br/>
 
 ---
 
@@ -243,6 +263,22 @@ Inspired by Stoicism, science, and systems theory:
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Aaryam-7d6/Aaryam-7d6/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!--
+<a href="#">
+  <img align="center" src="https://github-stats-pro.vercel.app/api?username=Aaryam-7d6&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My GitHub stats" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-stats-pro.vercel.app/api/top-langs/?username=Aaryam-7d6&layout=compact&theme=dark" alt="My Lang stats" /> -- we can add " &langs_count=8&hide=jupyter%20notebook,smalltalk,cuda,dockerfile,tsql,makefile "
+</a>
+<a href="#">
+  <img align="center" src="https://streak-stats.demolab.com/?user=Aaryam-7d6&theme=dark&card_width=600" alt="My Streak stats" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Aaryam-7d6&theme=react&bg_color=151515&point=ffffff&radius=10" alt="My GitHub stats" />
+</a>
+<br/>
+<br/>
+-->
 ---
 ## ☕ Final Note
 
