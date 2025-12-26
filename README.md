@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 <!--Hello, I'm Aarya R. Thakar.
 
-- 👀 I’m interested in Computer Science, AI, ML, DL, Cyber Security, IT, Technology, Linux, Engineering and Science.
+- 👀 I’m interested in Computer Science, AI, ML, DL, Cyber Security,Cloud, IT, Technology, Linux, Engineering and Science.
 - 🌱 I’m currently studying Computer Science and Engineering in India.
 - 💼 I’m eager to collaborate on projects to gain experience both as a student and a working professional.
 - 📫 You can reach me through my LinkedIn, X (Twitter) or Email.
-- ⚡ Fun fact: I'm proficient in Python, HTML, C, and R, with a strong interest in AI, ML, Cyber Security, Prompt Engineering, and data handling. I like to do Experiments with Computer,Technology and OS.
+- ⚡ Fun fact: I'm proficient in Python, HTML, C, and R, with a strong interest in AI, ML, Cyber Security,Cloud, Prompt Engineering, and data handling. I like to do Experiments with Computer,Technology and OS.
 - Visit my LinkedIn for more details about my skills and professional journey.
 
 Thank you for your time. 😊
@@ -55,7 +55,7 @@ This Will show profile view count:
 
 <h1 align="center"> ॐ </h1>
 <h2 align="center"> AARYA R. THAKAR (आर्य)</h2>
-<h3 align="center">Autodidactic Polymath | AI • ML • Security • XR • Ops | Researcher in Formation | Systems Thinker</h3>
+<h3 align="center">Autodidactic Polymath | AI • Security • Ops • Cloud • XR | Researcher in Formation | Systems Thinker</h3>
 
 <p align="center"><em><b>“Bridging Code & Consciousness • Turning Complexity into Clarity • Synthesizing Across Disciplines.”</b></em></p>
 <p align="center"> <b> <i>My GitHub is my living, evolving resume — a space where I build, break, learn, and grow in public.</b></i> </p>
@@ -82,10 +82,12 @@ My philosophy is progress.
 ### **🧠 Artificial Intelligence & Machine Learning**
 - Fundamentals, classical ML, deep learning basics, model intuition  
 - Understanding systems, not shortcuts  
+- GenAI application 
 
-### **🛡 Cybersecurity & Ops**
+### **🛡 Cybersecurity, Cloud & Ops**
 - Networks, OS, scripting, secure automation  
 - Thinking adversarially + defensively  
+- Knowledge of Basic Services of AWS, Google Cloud and Oracle Cloud 
 
 ### **🕶 XR (AR–VR) & Game Development**
 - Unity experiments, interaction design, narrative systems  
@@ -148,6 +150,7 @@ Building ideas for finance, hospitality, entertainment & retail systems.
 - Advanced Python + ML  
 - DSA (clean & clear fundamentals)  
 - Cybersecurity 
+- Cloud
 - OS & Networking  
 - XR development
 - Automation and tools
@@ -227,7 +230,7 @@ Inspired by Stoicism, science, and systems theory:
 
 ## ☕ Final Note
 If you explore:  
-**AI, Security, Systems, XR, Research, Philosophy or Strategy —** we’re already aligned.
+**AI, Security, Cloud, Systems, XR, Research, Philosophy or Strategy —** we’re already aligned.
 
 Let’s build. Let’s think.  
 Let’s create meaningful impact.
