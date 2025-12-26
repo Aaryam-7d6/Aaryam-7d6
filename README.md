@@ -226,7 +226,7 @@ Inspired by Stoicism, science, and systems theory:
 
 </div>
 -->
-
+<!--
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaryam-7d6&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
@@ -236,6 +236,19 @@ Inspired by Stoicism, science, and systems theory:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aaryam-7d6&theme=radical)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aaryam-7d6&theme=react-dark&hide_border=true)
+
+</div>
+-->
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aaryam-7d6&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryam-7d6&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Aaryam-7d6&theme=tokyonight" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaryam-7d6&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
