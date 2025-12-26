@@ -214,7 +214,9 @@ Inspired by Stoicism, science, and systems theory:
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Aaryam-7d6&custom_title=Aaryam%27s%20Contribution&theme=react&bg_color=151515&point=ffffff&radius=10)
 -->
+<!--
 <div align="center">
+-->
 <!--  
 [![0](https://github-readme-stats.vercel.app/api?username=Aaryam-7d6&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=aura)](https://github.com/anuraghazra/github-readme-stats) 
 <!---
@@ -254,8 +256,7 @@ Inspired by Stoicism, science, and systems theory:
 </div>
 -->
 
-## 📊 GitHub Stats
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aaryam-7d6&show_icons=true&theme=dark" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaryam-7d6&theme=dark" width="48%" />
@@ -264,6 +265,28 @@ Inspired by Stoicism, science, and systems theory:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryam-7d6&layout=compact&theme=dark" width="48%" />
 </p>
+
+----
+-->
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aaryam-7d6&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryam-7d6&layout=compact&langs_count=8&theme=radical"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaryam-7d6&theme=radical&hide_border=false" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaryam-7d6&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" />
+
+</div>
+
 ---
 
 ## ☕ Final Note
