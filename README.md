@@ -212,15 +212,15 @@ Inspired by Stoicism, science, and systems theory:
 
 **Contribution Activity Graph**
 
-![Aaryam's Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aaryam-7d6&custom_title=Aaryam%27s%20Contribution&theme=react&bg_color=151515&point=ffffff&radius=10)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Aaryam-7d6&custom_title=Aaryam%27s%20Contribution&theme=react&bg_color=151515&point=ffffff&radius=10)
 -->
 <div align="center">
   
-[![Aaryam-7d6's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaryam-7d6&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=aura)](https://github.com/anuraghazra/github-readme-stats) 
+[![](https://github-readme-stats.vercel.app/api?username=Aaryam-7d6&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=aura)](https://github.com/anuraghazra/github-readme-stats) 
 
-![Aaryam-7d6's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryam-7d6&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryam-7d6&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Aaryam-7d6's Streak Stats](https://streak-stats.demolab.com/?user=Aaryam-7d6&theme=default)](https://git.io/streak-stats)
+[![](https://streak-stats.demolab.com/?user=Aaryam-7d6&theme=default)](https://git.io/streak-stats)
 
 ![Aaryam's Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aaryam-7d6&custom_title=Aaryam%27s%20Contribution&theme=react&bg_color=151515&point=ffffff&radius=10)
 
