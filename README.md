@@ -220,14 +220,20 @@ Inspired by Stoicism, science, and systems theory:
 </a>
 <a href="#">
   <img align="center" src="https://github-stats-pro.vercel.app/api/top-langs/?username=Aaryam-7d6&count_private=true&layout=compact&theme=dark" alt="My Lang. stats" />
-</a>
+</a> 
 <!--<a href="#">
   <img align="center" src="https://streak-stats.demolab.com/?user=Aaryam-7d6&theme=dark&card_width=600" alt="My Streak stats" />
 </a>-->
 <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Aaryam-7d6" alt="GitHub Streak" />
 </a>
-
+<!--
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryam-7d6&count_private=true&include_all_commits=true&layout=compact&theme=dark&hide_border=true" alt="Top Languages" /> 
+  </a> -->
+  <a href="#">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aaryam-7d6&count_private=true&theme=dark&layout=compact" />
+  </a>
 </div>
 
 ---
