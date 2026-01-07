@@ -1,6 +1,6 @@
 <h1 align="center"> ॐ </h1>
 <h2 align="center"> AARYA R. THAKAR (आर्य)</h2>
-<h3 align="center">Autodidactic Polymath | AI • Security • Ops • Cloud • XR | Researcher in Formation | Systems Thinker</h3>
+<h3 align="center">Autodidactic Polymath | AI • Security • Ops • Cloud | Researcher in Formation | Systems Thinker</h3>
 
 <p align="center"><em><b>"Bridging Code & Consciousness • Turning Complexity into Clarity • Synthesizing Across Disciplines."</b></em></p>
 <p align="center"><b><i>My GitHub is my living, evolving resume — a space where I build, break, learn, and grow in public.</i></b></p>
@@ -34,15 +34,15 @@ My philosophy is progress.
 - Thinking adversarially + defensively  
 - Knowledge of basic services: AWS, Google Cloud, Oracle Cloud
 
-### **🕶 XR (AR–VR) & Game Development**
-- Unity experiments, interaction design, narrative systems  
-
 ### **⚙ Systems & Low-Level Computing**
 - OS internals, WSL, embedded concepts, Linux kernels, Termux scripting  
 
 ### **🔍 Research & Exploration**
 - Complexity, uncertainty, decision-making, and computational thinking  
-- Strong interest in interdisciplinary research  
+- Strong interest in interdisciplinary research
+
+### **🕶 XR (AR–VR) & Game Development**
+- Exploring... 
 
 ---
 
@@ -52,16 +52,16 @@ My philosophy is progress.
 `Python` • `C` • `C++` • `C#` • `Java` • `SQL` • `HTML` • `CSS` • `R` • `Go` • `Rust`
 
 ### **Tools & Frameworks**
-`NumPy` • `Pandas` • `Scikit-Learn` • `Flask` • `Jinja` • `MySQL` • `Unity` • `Unreal Engine` • `Godot` • `Docker` • `Git` • `GitHub` • `Jupyter` • `Linux` • `WSL` • `Termux`
+`NumPy` • `Pandas` • `Scikit-Learn` • `Flask` • `Jinja` • `MySQL` • `Unity` • `Unreal Engine` • `Godot` • `Docker` • `Git` • `GitHub` • `Jupyter Notebook & lab` • `Linux` • `WSL` • `Termux` • `AWS` • `Google Cloud` • `OCI` • `n8n` • `Microsoft Power Automate`
 
 ### **Operating Systems**
 **Proficient:** Ubuntu, Kali Linux, Debian, Arch, Windows  
-**Comfortable:** WSL, Debian, Arch-based OS  
+**Comfortable:** WSL, Debian-based OS, Arch-based OS (in generally Linux and Unix) and Windows  
 **Exploring:** Linux inner workings, OS theory, shell ecosystems  
 
 ### **Other Strengths**
 - DSA fundamentals  
-- Problem-solving + debugging  
+- Problem-solving + debugging 
 - Automation scripts  
 - System-level thinking  
 - Cross-disciplinary synthesis  
@@ -74,10 +74,11 @@ My philosophy is progress.
 - DSA (clean & clear fundamentals)  
 - Cybersecurity & Cloud  
 - OS & Networking  
-- XR development  
+- XR development
+- Quantum Computing
 - Automation and tools  
 - Research writing + scientific thinking  
-
+Learning this using projects and solving problems
 ---
 
 ## 🧘 Philosophy
@@ -293,12 +294,12 @@ Inspired by Stoicism, science, and systems theory:
 ## ☕ Final Note
 
 If you explore:  
-**AI, Security, Cloud, Systems, XR, Research, Philosophy or Strategy** — we're already aligned.
+**AI, Security, Cloud, Systems, Research, Philosophy or Strategy** — we're already aligned.
 
 Let's build. Let's think.  
 Let's create meaningful impact.
 
-Have a Fantastic Time Ahead.
+Have a Fantastic Time Ahead. :)
 
 — **Aaryam (आर्यम्) aka Aarya R. Thakar or Aarya Thakar**  
 — **अस्तु**  
