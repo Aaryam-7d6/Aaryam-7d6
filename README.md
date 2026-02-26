@@ -49,7 +49,9 @@ My philosophy is progress.
 ## 🛠 Skills & Technologies
 
 ### **Languages**
-`Python` • `C` • `C++` • `C#` • `Java` • `SQL` • `HTML` • `CSS` • `R` • `Go` • `Rust`
+`Python` • `C` • `C++` • `C#` • `Java` • `SQL` • `HTML` • `CSS` • `R` • `Go` • `Rust` • `LaTeX` • `Markdown`
+
+
 
 ### **Tools & Frameworks**
 `NumPy` • `Pandas` • `Scikit-Learn` • `Flask` • `Jinja` • `MySQL` • `Unity` • `Unreal Engine` • `Godot` • `Docker` • `Git` • `GitHub` • `Jupyter Notebook & lab` • `Linux` • `WSL` • `Termux` • `AWS` • `Google Cloud` • `OCI` • `n8n` • `Microsoft Power Automate`
