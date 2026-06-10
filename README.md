@@ -56,7 +56,7 @@ meets consciousness, where engineering meets philosophy.
 
 ## 🛠 Stack
 
-**Languages** — Python · Go · C · Java · SQL · HTML/CSS · LaTeX · Basic R ·  Basic C#
+**Languages** — Python · Go · C · Bash · Java · SQL · HTML/CSS · LaTeX · Basic R ·  Basic C#  
 
 **AI/ML** — HuggingFace · Scikit-learn · LlamaIndex · Qdrant · asyncio
 <!-- · LangChain · FAISS -->
