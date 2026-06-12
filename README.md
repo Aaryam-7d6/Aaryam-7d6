@@ -9,7 +9,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aaryamthakar">LinkedIn</a> •
   <a href="https://x.com/Aaryam_Thakar">Twitter(X)</a> •
-  <a href="https://medium.com/@aaryamthakar0110">Medium</a>
+  <a href="https://medium.com/@aaryamthakar0110">Medium</a> •
+  <a herf="https://huggingface.co/A-Aryam">Hugging Face</a>
 </p>
 
 ---
