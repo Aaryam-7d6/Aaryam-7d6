@@ -86,6 +86,14 @@ meets consciousness, where engineering meets philosophy.
 
 </div>
 
+<!-- --- -->
+<!--
+## 🏆 Trophy -->
+
+<!--[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Aaryam-7d6&theme=twotone)](https://github.com/ryo-ma/github-profile-trophy)-->
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=Aaryam-7d6&theme=onedark)](https://github.com/Aaryam-7d6)-->
+
+
 ---
 
 ## 🐍 Contributions
