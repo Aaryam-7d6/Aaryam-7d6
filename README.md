@@ -28,7 +28,7 @@ meets consciousness, where engineering meets philosophy.
 
 ## 🔧 What I'm Building
 
-### ReassureAI
+### [ReassureAI](https://github.com/Aaryam-7d6/ReassureAI/)
 > Hybrid AI healthcare assistant — OpenBioLLM + Ayurvedic knowledge,
 > multi-layer pipeline with RAG, async inference & dual-stage safety screening.
 
@@ -37,7 +37,7 @@ meets consciousness, where engineering meets philosophy.
 
 ---
 
-### SentriAI
+### [SentriAI](https://github.com/Aaryam-7d6/SentriAI/)
 > Local endpoint security monitoring — lightweight Go agent,
 > hybrid rule-based + ML anomaly detection, automated incident response via n8n.
 
@@ -46,7 +46,7 @@ meets consciousness, where engineering meets philosophy.
 
 ---
 
-### Knowledge Seeker *(Shipped)*
+### [Knowledge Seeker](https://github.com/Aaryam-7d6/knowledge-seeker-chatbot/)
 > RAG chatbot built during Infosys Springboard internship.
 > Hybrid BM25 + vector retrieval using LlamaIndex and Qdrant.
 
