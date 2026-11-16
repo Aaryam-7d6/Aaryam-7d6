@@ -66,7 +66,7 @@ meets consciousness, where engineering meets philosophy.
 **Systems & Security** — Linux · WSL · Kali · Docker · Git · Termux · n8n · basic AWS/GCP/OCI
 
 ---
-
+<!--
 ## 📊 Stats
 
 <div align="center">
@@ -74,9 +74,9 @@ meets consciousness, where engineering meets philosophy.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaryam-7d6&theme=radical&hide_border=true" width="480"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaryam-7d6&theme=react&bg_color=151515&point=ffffff&radius=10"/>
-
+-->
 <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaryam-7d6&theme=radical&hide_border=true" alt="GitHub Streak" width="500"/>-->
-
+<!--
 <a href="#">
   <img align="center" src="https://github-stats-pro.vercel.app/api?username=Aaryam-7d6&count_private=true&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My GitHub stats" />
 </a>
@@ -85,6 +85,7 @@ meets consciousness, where engineering meets philosophy.
 </a> 
 
 </div>
+-->
 
 <!-- --- -->
 <!--
@@ -93,7 +94,7 @@ meets consciousness, where engineering meets philosophy.
 <!--[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Aaryam-7d6&theme=twotone)](https://github.com/ryo-ma/github-profile-trophy)-->
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Aaryam-7d6&theme=onedark)](https://github.com/Aaryam-7d6)-->
 
-
+<!--
 ---
 
 ## 🐍 Contributions
@@ -108,6 +109,7 @@ meets consciousness, where engineering meets philosophy.
 </picture>
 
 ---
+-->
 
 ## ✦ Philosophy
 
@@ -135,9 +137,12 @@ they're how I think.
 I'm in my final year, actively looking for roles, research collaborations, or internships in AI/ML and cybersecurity. If you're building something meaningful, or thinking deeply about something hard then reach out
 
 ---
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aaryam-7d6&color=blueviolet&style=flat-square&label=Profile+Views"/>
 </p>
 
 ---
+-->
+
 <p align="center">|| ॐ ||</p>
